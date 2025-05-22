@@ -1,0 +1,59 @@
+/* Messi Card - Blue & Gold */
+.player-card-messi {
+  background-color: #1a237e !important;
+  color: #ffd700 !important;
+}
+.player-card-messi .player-name {
+  border-bottom: 2px solid rgba(255, 215, 0, 0.3) !important;
+}
+.player-card-messi .player-features-col {
+  border-right: 2px solid rgba(255, 215, 0, 0.3) !important;
+}
+
+/* Ronaldo Card - Red & White */
+.player-card-ronaldo {
+  background-color: #b71c1c !important;
+  color: #ffffff !important;
+}
+.player-card-ronaldo .player-name {
+  border-bottom: 2px solid rgba(255, 255, 255, 0.3) !important;
+}
+.player-card-ronaldo .player-features-col {
+  border-right: 2px solid rgba(255, 255, 255, 0.3) !important;
+}
+
+/* Neymar Card - Green & Yellow */
+.player-card-neymar {
+  background-color: #33691e !important;
+  color: #ffeb3b !important;
+}
+.player-card-neymar .player-name {
+  border-bottom: 2px solid rgba(255, 235, 59, 0.3) !important;
+}
+.player-card-neymar .player-features-col {
+  border-right: 2px solid rgba(255, 235, 59, 0.3) !important;
+}
+
+/* De Bruyne Card - Purple & Cyan */
+.player-card-debruyne {
+  background-color: #4a148c !important;
+  color: #00e5ff !important;
+}
+.player-card-debruyne .player-name {
+  border-bottom: 2px solid rgba(0, 229, 255, 0.3) !important;
+}
+.player-card-debruyne .player-features-col {
+  border-right: 2px solid rgba(0, 229, 255, 0.3) !important;
+}
+
+/* Lewandowski Card - Orange & Light Blue */
+.player-card-lewandowski {
+  background-color: #e65100 !important;
+  color: #80deea !important;
+}
+.player-card-lewandowski .player-name {
+  border-bottom: 2px solid rgba(128, 222, 234, 0.3) !important;
+}
+.player-card-lewandowski .player-features-col {
+  border-right: 2px solid rgba(128, 222, 234, 0.3) !important;
+}
